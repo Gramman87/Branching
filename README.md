@@ -10,10 +10,11 @@
 ### Information Commands
 * 'git status' - display current status of local working directory/repository
 * 'git log' - list commit history
-* 'git log --online' - list commit history, compact
+* 'git log --oneline' - list commit history, compact
 
 ### Branching Commands
 * 'git branch' - List local git branches
 * 'git branch newBranch' - Create local branch "newBranch"
 * 'git switch newBranch' - Switch to local branch "newBranch"
 * 'git branch -M otherBranch' - Rename current branch to 'otherBranch'
+
