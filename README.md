@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+### New Branch
+
 ### Basic Commands
 * 'git init' - Initialize local Git repository
 * 'git add .' - Add all files in and under current directory to git index, staging them for commit
@@ -12,5 +14,7 @@
 
 ### Branching Commands
 * 'git branch' - List local git branches
-* 'git branch "newBranch"' - Create local branch "newBranch"
-* 'git switch "newBranch"' - Switch to "newBranch"
+* 'git branch newBranch' - Create local branch "newBranch"
+* 'git switch newBranch' - Switch to local branch "newBranch"
+* 'git branch -M otherBranch' - Rename current branch to 'otherBranch'
+
