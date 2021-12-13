@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+### No this merge conflict
+
 ### New Branch
 
 ### Basic Commands
@@ -17,4 +19,3 @@
 * 'git branch newBranch' - Create local branch "newBranch"
 * 'git switch newBranch' - Switch to local branch "newBranch"
 * 'git branch -M otherBranch' - Rename current branch to 'otherBranch'
-
